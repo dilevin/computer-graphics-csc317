@@ -88,7 +88,7 @@ Press](https://www.crcpress.com/Fundamentals-of-Computer-Graphics-Fourth-Edition
 | 4    | Assignment 4 (Boundary Volume Hierarchy) due 08/02, Lecture 4  
 | 5    | Assignment 5 (Meshes) due 15/02, Lecture 5  
 | 6    | _Work on Assignment 5_ , Lecture6  
-| **Reading Week,  February 18-22**   | Study for 1st exam   
+| **Reading Week**  **February 18-22**   | Study for 1st exam   
 | **Monday, February 25** | In-tutorial Exam (20% of grade)  
 | 7    | Assignment 6 (Shader Pipeline) due 08/03, Lecture 7  
 | 8    | Assignment 7 (Kinematics) due  29/03, Lecture 8  
