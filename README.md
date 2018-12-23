@@ -82,13 +82,13 @@ Press](https://www.crcpress.com/Fundamentals-of-Computer-Graphics-Fourth-Edition
 
 | Week | Topic / Event |
 | ---- | :------------ |
-| 1    | Introduction, Demos of Solutions Assignment 1 (Raster Images) due 18/01, Lecture 1  
+| 1    | Introduction, Demos of Solutions Assignment 1 (Raster Images) due 18/01,  Lecture 1  
 | 2    | Assignment 2 (Ray Casting) due 25/01, Lecture 2  
 | 3    | Assignment 3 (Ray Tracing) due 01/02, Lecture 3  
 | 4    | Assignment 4 (Boundary Volume Hierarchy) due 08/02, Lecture 4  
 | 5    | Assignment 5 (Meshes) due 15/02, Lecture 5  
 | 6    | _Work on Assignment 5_ , Lecture6  
-| **Reading Week, February 18-22**   | Study for 1st exam   
+| **Reading Week,  February 18-22**   | Study for 1st exam   
 | **Monday, February 25** | In-tutorial Exam (20% of grade)  
 | 7    | Assignment 6 (Shader Pipeline) due 08/03, Lecture 7  
 | 8    | Assignment 7 (Kinematics) due  29/03, Lecture 8  
