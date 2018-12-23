@@ -16,8 +16,8 @@ diwlevin@cs.toronto.edu
 +1 416-978-2052  
 Office hours TBD BA5268
 
-Gavin Barill
-gavin.barill@mail.utoronto.ca
+Gavin Barill 
+gavin.barill@mail.utoronto.ca 
 Office hours TBD TBD
 
 ## Lectures
