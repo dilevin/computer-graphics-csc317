@@ -108,8 +108,8 @@ Press](https://www.crcpress.com/Fundamentals-of-Computer-Graphics-Fourth-Edition
 | % | Item |
 | ----: | :-------------- |
 | 70%* | Assignments
-| 20% | Monday, October 29, in-tutorial exam
-| 10% | Monday, November 26, in-tutorial exam
+| 20% | Monday, February 25, in-tutorial exam
+| 10% | Monday, March 25, in-tutorial exam
 
 There will be roughly seven programming assignments in total (~10% each).
 
