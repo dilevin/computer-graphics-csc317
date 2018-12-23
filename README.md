@@ -1,34 +1,47 @@
-# Computer Graphics CSC418/CSC2504 _Fall 2018_
+# Computer Graphics CSC418/CSC2504 _Winter 2019_
 
 ![_image courtesy Tim Jeruzalski_](images/bunny-rigid-body.gif)
 
-- [Sections](#sections)
+- [Lectures](#Lectures)
+- [Tutorials](#Tutorials)
 - [Course Overview](#courseoverview)
 - [Required Textbook](#requiredtextbook)
 - [Lecture Schedule](#lectureschedule)
 - [Grading](#grading)
 - [Lateness Policy](#latenesspolicy)
 
-## Sections
+## Instructors
+Prof. [David I.W. Levin](http://www.cs.toronto.edu/~diwlevin/)  
+diwlevin@cs.toronto.edu  
++1416-978-2052  
+Office hours TBD BA5268
 
-**LEC0101** Wednesdays 15:00-17:00 in GB 244  
-Prof. [Alec Jacobson](http://www.cs.toronto.edu/~jacobson/)  
-jacobson@cs.toronto.edu  
-+1 416-946-8630  
-Office hours Wednesdays 17:00-18:00 in BA 5266
+Gavin Barill
+gavin.barill@mail.utoronto.ca
+Office hours TBD TBD
 
-**LEC0201** Tuesdays 15:00-17:00 in SF 3202  
-Prof. [Karan Singh](http://www.dgp.toronto.edu/~karan/)  
-karan@dgp.toronto.edu  
-+1 416-978-7201  
-Office hours Tuesdays 14:00-15:00 in BA 5258
+## Lectures
+**LEC0101** Wednesdays 15:00-17:00 in BA1190 
 
-**Tutorial** for both sections will be held _together_ on Mondays 15:00-16:00 in
-SF 3202.
+**LEC2001** Wednesdays 15:00-17:00 in BA1100
+
+**LEC0201** Tuesdays 15:00-17:00 in BA1170
+
+**LEC2201** Tuesdays 15:00-17:00 in BA1170
+
+
+## Tutorials
+**LEC0101** Monday 15:00-16:00 in BA1190 
+
+**LEC2001** Monday 15:00-16:00 in BA1190
+
+**LEC0201** Monday 15:00-16:00 in BA1210
+
+**LEC2201** Monday 15:00-16:00 in BA1210
 
 ## Links
 
-- [Bulletin Board](https://bb-2018-09.teach.cs.toronto.edu/c/csc418)
+- [Bulletin Board](https://bb-2019-01.teach.cs.toronto.edu/c/csc418)
 
 ## Course Overview
 
