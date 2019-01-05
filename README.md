@@ -101,7 +101,7 @@ Press](https://www.crcpress.com/Fundamentals-of-Computer-Graphics-Fourth-Edition
 
 [Academic Honesty (required reading)](#academichonesty)
 
-![_image courtesy Gavin Barill (class of 2017)_](images/gavin-barill-snowglobe.jpg)
+![_image courtesy Gavin Barill_](images/gavin-barill-snowglobe.jpg)
 
 ## Grading
 
