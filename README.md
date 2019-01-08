@@ -14,7 +14,7 @@
 Prof. [David I.W. Levin](http://www.cs.toronto.edu/~diwlevin/)  
 diwlevin@cs.toronto.edu  
 +1 416-978-2052  
-Office hours TBD BA5268
+Office hours Tuesday, Wednesday 5pm-6pm BA5268
 
 Gavin Barill  
 gavin.barill@mail.utoronto.ca  
