@@ -110,7 +110,7 @@ Press](https://www.crcpress.com/Fundamentals-of-Computer-Graphics-Fourth-Edition
 | 70% | Assignments
 | 20% | Monday, February 25, in-tutorial exam
 | 10% | Monday, March 25, in-tutorial exam
-| *%  | Bonus final project competition
+| *  | Bonus final project competition
 
 There will be roughly seven programming assignments in total (~10% each).
 
