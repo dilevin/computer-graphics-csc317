@@ -112,11 +112,11 @@ Press](https://www.crcpress.com/Fundamentals-of-Computer-Graphics-Fourth-Edition
 | 10% | Monday, March 25, in-tutorial exam
 | *  | Bonus final project competition
 
-There will be roughly seven programming assignments in total (~10% each).
+There will be seven programming assignments in total (10% each).
 
-\* The final project is for bonus marks. It will be graded as a competition. The top 5 students from the Tuesday lecture (LEC0201 & LEC2201) and the top 5 students from the Wednesday lecture (LEC0201 & LEC2001) will recieve grades as follows:
+\* The final project is for bonus marks. It will be graded as a competition. The top 5 students from the Tuesday lecture (LEC0201 & LEC2201) and the top 5 students from the Wednesday lecture (LEC0201 & LEC2001) will recieve bonus marks as follows:
 
-| % | Item |
+| Bonus | Ranking |
 | ----: | :-------------- |
 | 5% | 1st place
 | 4% | 2nd place
