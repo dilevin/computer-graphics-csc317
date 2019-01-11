@@ -107,13 +107,23 @@ Press](https://www.crcpress.com/Fundamentals-of-Computer-Graphics-Fourth-Edition
 
 | % | Item |
 | ----: | :-------------- |
-| 70%* | Assignments
+| 70% | Assignments
 | 20% | Monday, February 25, in-tutorial exam
 | 10% | Monday, March 25, in-tutorial exam
+| *%  | Bonus final project competition
 
 There will be roughly seven programming assignments in total (~10% each).
 
-\*The final assignment is pass/fail + bonus marks. A minimally passing submission will receive a mark equal to the student's average marks on HW1-7 (i.e., will not change her overall Assignment Marks). Additional marks are awarded up to 100% on the assignment (i.e., an amazing submission will increase her marks as if scoring 100% on an 8th assignment). Failing the assignment (e.g., very poor/no submission) will receive 0 marks (i.e., as if receiving 0% on an 8th assignment). Lateness policy applies as usual, but get your submission in on time to qualify for the competition.
+\* The final project is for bonus marks. It will be graded as a competition. The top 5 students from the Tuesday lecture (LEC0201 & LEC2201) and the top 5 students from the Wednesday lecture (LEC0201 & LEC2001) will recieve grades as follows:
+
+| % | Item |
+| ----: | :-------------- |
+| 5% | 1st place
+| 4% | 2nd place
+| 3% | 3rd place
+| 2% | 4th place
+| 1% | 5th place
+| 0% | > 6th place
 
 ## Lateness Policy
 
