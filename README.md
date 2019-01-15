@@ -14,11 +14,11 @@
 Prof. [David I.W. Levin](http://www.cs.toronto.edu/~diwlevin/)  
 diwlevin@cs.toronto.edu  
 +1 416-978-2052  
-Office hours Tuesday, Wednesday 5pm-6pm BA5268
+Office hours Tuesday, Wednesday 5pm-6pm BA5268 (Before the instructor switch)
 
 Gavin Barill  
 gavin.barill@mail.utoronto.ca  
-Office hours TBD TBD  
+Office hours Monday 2:30pm-3:30pm, Wednesday 5pm-6pm BA5268 (After the instructor switch) 
 
 ## Lectures
 **LEC0101** Wednesdays 15:00-17:00 in BA1190 
@@ -82,7 +82,7 @@ Press](https://www.crcpress.com/Fundamentals-of-Computer-Graphics-Fourth-Edition
 
 | Week | Topic / Event |
 | ---- | :------------ |
-| 1    | Introduction, Demos of Solutions [Assignment 1 (Raster Images)](https://github.com/dilevin/computer-graphics-raster-images) due 18/01,  Lecture 1  
+| 1    | Introduction, Demos of Solutions [Assignment 1 (Raster Images)](https://github.com/dilevin/computer-graphics-raster-images) due 18/01,  [Lecture1](lectures/lecture1.pdf)  
 | 2    | Assignment 2 (Ray Casting) due 25/01, Lecture 2  
 | 3    | Assignment 3 (Ray Tracing) due 01/02, Lecture 3  
 | 4    | Assignment 4 (Boundary Volume Hierarchy) due 08/02, Lecture 4  
@@ -107,13 +107,23 @@ Press](https://www.crcpress.com/Fundamentals-of-Computer-Graphics-Fourth-Edition
 
 | % | Item |
 | ----: | :-------------- |
-| 70%* | Assignments
+| 70% | Assignments
 | 20% | Monday, February 25, in-tutorial exam
 | 10% | Monday, March 25, in-tutorial exam
+| *  | Bonus final project competition
 
-There will be roughly seven programming assignments in total (~10% each).
+There will be seven programming assignments in total (10% each).
 
-\*The final assignment is pass/fail + bonus marks. A minimally passing submission will receive a mark equal to the student's average marks on HW1-7 (i.e., will not change her overall Assignment Marks). Additional marks are awarded up to 100% on the assignment (i.e., an amazing submission will increase her marks as if scoring 100% on an 8th assignment). Failing the assignment (e.g., very poor/no submission) will receive 0 marks (i.e., as if receiving 0% on an 8th assignment). Lateness policy applies as usual, but get your submission in on time to qualify for the competition.
+\* The final project is for bonus marks. It will be graded as a competition. The top 5 students from the Tuesday lecture (LEC0201 & LEC2201) and the top 5 students from the Wednesday lecture (LEC0201 & LEC2001) will receive bonus marks as follows:
+
+| Bonus | Ranking |
+| ----: | :-------------- |
+| 5% | 1st place
+| 4% | 2nd place
+| 3% | 3rd place
+| 2% | 4th place
+| 1% | 5th place
+| 0% | > 6th place
 
 ## Lateness Policy
 
