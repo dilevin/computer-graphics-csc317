@@ -83,7 +83,7 @@ Press](https://www.crcpress.com/Fundamentals-of-Computer-Graphics-Fourth-Edition
 | Week | Topic / Event |
 | ---- | :------------ |
 | 1    | Introduction, Demos of Solutions [Assignment 1 (Raster Images)](https://github.com/dilevin/computer-graphics-raster-images) due 18/01,  [Lecture1](lectures/lecture1.pdf)  
-| 2    | Assignment 2 (Ray Casting) due 25/01, Lecture 2  
+| 2    | Assignment 2 (Ray Casting) due 25/01, [Lecture 2](lectures/lecture2.pdf) 
 | 3    | Assignment 3 (Ray Tracing) due 01/02, Lecture 3  
 | 4    | Assignment 4 (Boundary Volume Hierarchy) due 08/02, Lecture 4  
 | 5    | Assignment 5 (Meshes) due 15/02, Lecture 5  
