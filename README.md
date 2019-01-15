@@ -123,7 +123,7 @@ There will be seven programming assignments in total (10% each).
 | 1.8% | 3rd place
 | 1.2% | 4th place
 | 0.6% | 5th place
-| 0% | > 6th place
+| 0% | >= 6th place
 
 ## Lateness Policy
 
