@@ -88,11 +88,11 @@ Press](https://www.crcpress.com/Fundamentals-of-Computer-Graphics-Fourth-Edition
 | 2    | [Assignment 2 (Ray Casting)](https://github.com/dilevin/computer-graphics-ray-casting) due 25/01, [Lecture 2](lectures/lecture2.pdf) 
 | 3    | [Assignment 3 (Ray Tracing)](https://github.com/dilevin/computer-graphics-ray-tracing) due 01/02, [Lecture 3](lectures/lecture3.pdf)  
 | 4    | [Assignment 4 (Boundary Volume Hierarchy)](https://github.com/dilevin/computer-graphics-bounding-volume-hierarchy) due 08/02, [Lecture 4](lectures/lecture4.pdf)
-| 5    | Assignment 5 (Meshes) due 15/02, [Lecture 5](lectures/lecture5.pdf)  
+| 5    | Assignment 5 (Meshes) due ~~15/02~~ 01/03, [Lecture 5](lectures/lecture5.pdf)  
 | 6    | _Work on Assignment 5_ , Lecture6  
 | **Reading Week**  **February 18-22**   | Study for 1st exam   
 | **Monday, February 25** | In-tutorial Exam (20% of grade)  
-| 7    | Assignment 6 (Shader Pipeline) due 08/03, Lecture 7  
+| 7    | Assignment 6 (Shader Pipeline) due ~~08/03~~ 15/03, Lecture 7  
 | 8    | Assignment 7 (Kinematics) due  29/03, Lecture 8  
 | 9   | Final Image/Animation/Game Competition due 05/04, Lecture 9  
 | **Sunday, March 17** | Drop date (consider if grade so far is <50%)
