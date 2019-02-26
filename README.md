@@ -17,7 +17,7 @@ diwlevin@cs.toronto.edu
 
 Gavin Barill  
 gavin.barill@mail.utoronto.ca  
-Office hours Monday 4-5pm, Wednesday 5pm-6pm BA5268
+Office hours Monday 4-5pm, Wednesday 5pm-6pm BA5287
 
 TA Email Address: csc418tas@cs.toronto.edu (all assignment/marking questions)
 
