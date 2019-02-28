@@ -91,7 +91,7 @@ Press](https://www.crcpress.com/Fundamentals-of-Computer-Graphics-Fourth-Edition
 | 6    | _Work on Assignment 5_ , [Lecture 6](lectures/lecture6.pdf) 
 | **Reading Week**  **February 18-22**   | Study for 1st exam   
 | **Monday, February 25** | In-tutorial Exam (20% of grade)  
-| 7    | Assignment 6 (Shader Pipeline) due ~~08/03~~ 15/03, [Lecture 7](lectures/lecture7.pdf) 
+| 7    | [Assignment 6 (Shader Pipeline)] (https://github.com/dilevin/computer-graphics-shader-pipeline) due ~~08/03~~ 15/03, [Lecture 7](lectures/lecture7.pdf) 
 | 8    | Assignment 7 (Kinematics) due  29/03, Lecture 8  
 | 9   | Final Image/Animation/Game Competition due 05/04, Lecture 9  
 | **Sunday, March 17** | Drop date (consider if grade so far is <50%)
