@@ -1,4 +1,4 @@
-# Computer Graphics CSC418/CSC2504 _Winter 2019_
+# Computer Graphics CSC418/CSC2504 _Winter 2020_
 
 ![_image courtesy Tim Jeruzalski_](images/bunny-rigid-body.gif)
 
@@ -15,34 +15,32 @@ Prof. [David I.W. Levin](http://www.cs.toronto.edu/~diwlevin/)
 diwlevin@cs.toronto.edu  
 +1 416-978-2052  
 
-Gavin Barill  
-gavin.barill@mail.utoronto.ca  
-Office hours Monday 4-5pm, Wednesday 5pm-6pm BA5287
-
 TA Email Address: csc418tas@cs.toronto.edu (all assignment/marking questions)
 
 ## Lectures
-**LEC0101** Wednesdays 15:00-17:00 in BA1190 
+**LEC0101** Wednesdays 15:00-17:00 in GB221 
 
-**LEC2001** Wednesdays 15:00-17:00 in BA1100
+**LEC2001** Wednesdays 15:00-17:00 in GB221
 
-**LEC0201** Tuesdays 15:00-17:00 in BA1170
+**LEC0201** Tuesdays 15:00-17:00 in GB244
 
-**LEC2201** Tuesdays 15:00-17:00 in BA1170
+**LEC2201** Tuesdays 15:00-17:00 in GB244
 
 
 ## Tutorials
-**LEC0101** Monday 15:00-16:00 in BA1190 
+**LEC0101** Monday 15:00-16:00 in GB221
 
-**LEC2001** Monday 15:00-16:00 in BA1190
+**LEC2001** Monday 15:00-16:00 in GB221
 
-**LEC0201** Monday 15:00-16:00 in BA1210
+**LEC0201** Monday 15:00-16:00 in GB244
 
-**LEC2201** Monday 15:00-16:00 in BA1210
+**LEC2201** Monday 15:00-16:00 in GB244
 
 ## Links
 
-- [Bulletin Board](https://bb-2019-01.teach.cs.toronto.edu/c/csc418)
+- Bulletin Board **Coming Soon**
+
+- MarkUs **Coming Soon**
 
 ## Course Overview
 
@@ -83,22 +81,22 @@ Press](https://www.crcpress.com/Fundamentals-of-Computer-Graphics-Fourth-Edition
 
 | Week | Topic / Event |
 | ---- | :------------ |
-| 1    | Introduction, Demos of Solutions [Assignment 1 (Raster Images)](https://github.com/dilevin/computer-graphics-raster-images) due 18/01,  [Lecture1](lectures/lecture1.pdf)  
-| 2    | [Assignment 2 (Ray Casting)](https://github.com/dilevin/computer-graphics-ray-casting) due 25/01, [Lecture 2](lectures/lecture2.pdf) 
-| 3    | [Assignment 3 (Ray Tracing)](https://github.com/dilevin/computer-graphics-ray-tracing) due 01/02, [Lecture 3](lectures/lecture3.pdf)  
-| 4    | [Assignment 4 (Boundary Volume Hierarchy)](https://github.com/dilevin/computer-graphics-bounding-volume-hierarchy) due 08/02, [Lecture 4](lectures/lecture4.pdf)
-| 5    | [Assignment 5 (Meshes)](https://github.com/dilevin/computer-graphics-meshes) due ~~15/02~~ 01/03, [Lecture 5](lectures/lecture5.pdf)  
-| 6    | _Work on Assignment 5_ , [Lecture 6](lectures/lecture6.pdf) 
-| **Reading Week**  **February 18-22**   | Study for 1st exam   
-| **Monday, February 25** | In-tutorial Exam (20% of grade)  
-| 7    | [Assignment 6 (Shader Pipeline)](https://github.com/dilevin/computer-graphics-shader-pipeline) due ~~08/03~~ 15/03, [Lecture 7](lectures/lecture7.pdf) 
-| 8    | [Assignment 7 (Kinematics)](https://github.com/dilevin/computer-graphics-kinematics) due  29/03, [Lecture 8](lectures/lecture8_Gavin.pdf) 
-| 9   | [Final Image/Animation/Game Competition](https://github.com/dilevin/computer-graphics-final-image-competition) due 05/04,[Lecture 9](lectures/lecture9.pdf)  
-| **Sunday, March 17** | Drop date (consider if grade so far is <50%)
-| 10   | _Study for exam next week and work on Final Project_.  
-| **Monday, March 25** | In-tutorial Exam (10% of grade)
-| 11   | Current Graphics Research and Graduate Course Preview
-| 12   | 🏆 Showcase 🏆 
+| 1    | Introduction, Assignment 1 (Raster Images) due 17/01
+| 2    | Lecture 2, Assignment 2 (Ray Casting) due 24/01
+| 3    | Lecture 3, Assignment 3 (Ray Tracing) due 31/01
+| 4    | Lecture 4, Assignment 4 (Boundary Volume Hierarchy) due 7/02
+| 5    | Lecture 5, Assignment 5 (Meshes) due  28/02 
+| 6    | Lecture 6, Assignment 6 (Shader Pipeline) due 28/02
+| **Reading Week**  **February 17-21**   | Study for 1st exam   
+| **Monday, February 24** | In-tutorial Exam (20% of grade)  
+| 7    | *Work on Assignments 5 and 6*
+| 8    | Lecture 7, Assignment 7 (Kinematics) due 13/03
+| **Sunday, March 15** | Drop date (consider if grade so far is <50%)
+| 9    | Lecture 8, Assignment 8 (Mass-Spring Systems) due 20/03
+| 10   | Lecture 9, Final Image/Animation/Game Competition due 06/04
+| 11   | _Study for exam next week and work on Final Project_. 
+| **Monday, March 30** | In-tutorial Exam (10% of grade)
+| 12   | Research Trends in Computer Graphics
 
 [Academic Honesty (required reading)](#academichonesty)
 
@@ -108,23 +106,12 @@ Press](https://www.crcpress.com/Fundamentals-of-Computer-Graphics-Fourth-Edition
 
 | % | Item |
 | ----: | :-------------- |
-| 70% | Assignments
-| 20% | Monday, February 25, in-tutorial exam
-| 10% | Monday, March 25, in-tutorial exam
-| *  | Bonus final project competition
+| 64% | Assignments
+| 15% | Monday, February 24, in-tutorial exam
+| 15% | Monday, March 30, in-tutorial exam
+|  6% | Final project competition
 
-There will be seven programming assignments in total (10% each).
-
-\* The final project is for bonus marks. It will be graded as a competition. The top 5 students from the Tuesday lecture (LEC0201 & LEC2201) and the top 5 students from the Wednesday lecture (LEC0201 & LEC2001) will receive bonus marks as follows (at the discretion of the instructors):
-
-| Bonus | Ranking |
-| ----: | :-------------- |
-| 3.0% | 1st place
-| 2.4% | 2nd place
-| 1.8% | 3rd place
-| 1.2% | 4th place
-| 0.6% | 5th place
-| 0% | >= 6th place
+There will be eight programming assignments in total (8% each).
 
 ## Lateness Policy
 
