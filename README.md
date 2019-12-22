@@ -17,6 +17,8 @@ diwlevin@cs.toronto.edu
 
 TA Email Address: csc418tas@cs.toronto.edu (all assignment/marking questions)
 
+**Office Hours:** Tuesday/Wednesday 5-6pm in BA5268
+
 ## Lectures
 **LEC0101** Wednesdays 15:00-17:00 in GB221 
 
