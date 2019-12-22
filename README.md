@@ -30,6 +30,9 @@ TA Email Address: csc418tas@cs.toronto.edu (all assignment/marking questions)
 
 
 ## Tutorials
+
+**NO TUTORIAL ON JANUARY 6**
+
 **LEC0101** Monday 15:00-16:00 in GB221
 
 **LEC2001** Monday 15:00-16:00 in GB221
