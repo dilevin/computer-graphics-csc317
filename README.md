@@ -47,7 +47,7 @@ TA Email Address: csc418tas@cs.toronto.edu (all assignment/marking questions)
 
 - MarkUs **Coming Soon**
 
-C++ Resources 
+## C++ Resources 
 
 [www.cplusplus.com](www.cplusplus.com)
 
