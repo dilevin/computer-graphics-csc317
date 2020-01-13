@@ -47,6 +47,10 @@ TA Email Address: csc418tas@cs.toronto.edu (all assignment/marking questions)
 
 - MarkUs **Coming Soon**
 
+C++ Resources 
+
+[www.cplusplus.com](www.cplusplus.com)
+
 ## Course Overview
 
 This course introduces the basic concepts and algorithms of computer graphics.
