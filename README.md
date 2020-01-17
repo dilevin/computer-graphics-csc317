@@ -43,9 +43,9 @@ TA Email Address: csc418tas@cs.toronto.edu (all assignment/marking questions)
 
 ## Links
 
-- Bulletin Board **Coming Soon**
+- [MarkUs]( https://markus.teach.cs.toronto.edu/csc418-2020-01)
 
-- MarkUs **Coming Soon**
+**Use Assignment GitHub issue pages for questions/discussion**
 
 ## C++ Resources 
 
