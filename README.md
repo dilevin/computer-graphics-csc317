@@ -43,7 +43,7 @@ TA Email Address: csc418tas@cs.toronto.edu (all assignment/marking questions)
 
 ## Links
 
-- [MarkUs]( https://markus.teach.cs.toronto.edu/csc418-2020-01)
+- [MarkUs](https://markus.teach.cs.toronto.edu/csc418-2020-01)
 
 **Use Assignment GitHub issue pages for questions/discussion**
 
