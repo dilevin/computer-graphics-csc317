@@ -15,8 +15,6 @@ Prof. [David I.W. Levin](http://www.cs.toronto.edu/~diwlevin/)
 diwlevin@cs.toronto.edu  
 +1 416-978-2052  
 
-TA Email Address: csc418tas@cs.toronto.edu (all assignment/marking questions)
-
 **Office Hours:** Tuesday/Wednesday 5-6pm in BA5268
 
 ## Lectures
