@@ -45,9 +45,11 @@ diwlevin@cs.toronto.edu
 
 **Use Assignment GitHub issue pages for questions/discussion**
 
-## C++ Resources 
+## Programming Resources 
 
 [www.cplusplus.com](http://www.cplusplus.com)
+
+[OpenGL Tutorials at http://www.opengl-tutorial.org](http://www.opengl-tutorial.org)
 
 ## Course Overview
 
