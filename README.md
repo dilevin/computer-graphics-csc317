@@ -97,14 +97,14 @@ Press](https://www.crcpress.com/Fundamentals-of-Computer-Graphics-Fourth-Edition
 | 5    | [Lecture 5](lectures/lecture5.pdf), [Assignment 5 (Meshes)](https://github.com/dilevin/computer-graphics-meshes) due  28/02 
 | 6    | [Lecture 6](lectures/lecture6.pdf), [Assignment 6 (Shader Pipeline)](https://github.com/dilevin/computer-graphics-shader-pipeline) due 28/02
 | **Reading Week**  **February 17-21**   | Study for 1st exam   
-| **Monday, February 24** | In-tutorial Exam (20% of grade)  
+| **Monday, February 24** | In-tutorial Exam (15% of grade)  
 | 7    | *Work on Assignments 5 and 6*
-| 8    | Lecture 7, Assignment 7 (Kinematics) due 13/03
+| 8    | Lecture 7, [Assignment 7 (Kinematics)](https://github.com/dilevin/computer-graphics-kinematics) due 13/03
 | **Sunday, March 15** | Drop date (consider if grade so far is <50%)
 | 9    | Lecture 8, Assignment 8 (Mass-Spring Systems) due 20/03
 | 10   | Lecture 9, Final Image/Animation/Game Competition due 06/04
 | 11   | _Study for exam next week and work on Final Project_. 
-| **Monday, March 30** | In-tutorial Exam (10% of grade)
+| **Monday, March 30** | In-tutorial Exam (15% of grade)
 | 12   | Research Trends in Computer Graphics
 
 [Academic Honesty (required reading)](#academichonesty)
