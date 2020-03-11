@@ -51,6 +51,8 @@ diwlevin@cs.toronto.edu
 
 [OpenGL Tutorials at http://www.opengl-tutorial.org](http://www.opengl-tutorial.org)
 
+[The Matrix Cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
+
 ## Course Overview
 
 This course introduces the basic concepts and algorithms of computer graphics.
