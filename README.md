@@ -104,10 +104,10 @@ Press](https://www.crcpress.com/Fundamentals-of-Computer-Graphics-Fourth-Edition
 | 8    | [Lecture 7](lectures/lecture7.pdf), [Assignment 7 (Kinematics)](https://github.com/dilevin/computer-graphics-kinematics) due ~~13/03~~ 17/04
 | **Sunday, March 15** | Drop date (consider if grade so far is <50%)
 | 9    | [Lecture 8](./lectures/lecture8.pdf), [Assignment 8 (Mass-Spring Systems)](https://github.com/dilevin/computer-graphics-mass-spring-systems) due ~~20/03~~  17/04
-| 10   | Research Trends in Computer Graphics
+| 10   | ~~Research Trends in Computer Graphics~~
 | 11   | _Study for exam next week and work on Final Project_. 
 | **Monday, March 30** | In-tutorial Exam (15% of grade)
-| 12   | Lecture 9, [Final Image/Animation/Game Competition](https://github.com/dilevin/computer-graphics-final-image-competition) due ~~06/04~~ 17/04
+| 12   | ~~Lecture 9~~, [Final Image/Animation/Game Competition](https://github.com/dilevin/computer-graphics-final-image-competition) due ~~06/04~~ 17/04
 
 [Academic Honesty (required reading)](#academichonesty)
 
