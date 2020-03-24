@@ -53,6 +53,16 @@ diwlevin@cs.toronto.edu
 
 [The Matrix Cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
 
+# Additional Graphics Resources (papers/presentations)
+
+** You need to login to the UofT vpn to access these **
+
+[Simulating characters in vehicles for games](https://dl.acm.org/doi/abs/10.1145/3084363.3085024)
+
+[Shading Cloth](https://dl.acm.org/doi/abs/10.1145/3084363.3085024)
+
+
+
 ## Course Overview
 
 This course introduces the basic concepts and algorithms of computer graphics.
