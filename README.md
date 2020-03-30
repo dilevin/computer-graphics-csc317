@@ -116,7 +116,7 @@ Press](https://www.crcpress.com/Fundamentals-of-Computer-Graphics-Fourth-Edition
 | 9    | [Lecture 8](./lectures/lecture8.pdf), [Assignment 8 (Mass-Spring Systems)](https://github.com/dilevin/computer-graphics-mass-spring-systems) due ~~20/03~~  17/04
 | 10   | ~~Research Trends in Computer Graphics~~
 | 11   | _Study for exam next week and work on Final Project_. 
-~~| **Monday, March 30** | In-tutorial Exam (15% of grade)~~
+| ~~**Monday, March 30**~~ | ~~In-tutorial Exam (15% of grade)~~
 | 12   | ~~Lecture 9~~, [Final Image/Animation/Game Competition](https://github.com/dilevin/computer-graphics-final-image-competition) due ~~06/04~~ 17/04
 
 [Academic Honesty (required reading)](#academichonesty)
