@@ -86,15 +86,15 @@ Press](https://www.crcpress.com/Fundamentals-of-Computer-Graphics-Fourth-Edition
 | ---- | :------------ |
 | 1    | Introduction, Assignment 1 (Raster Images) due 20/09
 | 2    | Lecture 2, Assignment 2  Ray Casting due 27/09
-| 3    | Lecture 3, Assignment 3 Ray Tracing)](https://github.com/dilevin/computer-graphics-ray-tracing) due 04/10
-| 4    | Lecture 4, Assignment 4 Boundary Volume Hierarchy)](https://github.com/dilevin/computer-graphics-bounding-volume-hierarchy) due 13/10
+| 3    | Lecture 3, Assignment 3 Ray Tracing due 04/10
+| 4    | Lecture 4, Assignment 4 Boundary Volume Hierarchy due 13/10
 |      | 24 hour Take home midterm (Exact date to be determined)
 | 5    | **No Lecture, Thanksgiving**
-| 6    | Lecture 5, Assignment 5 (Meshes)](https://github.com/dilevin/computer-graphics-meshes) due  25/10 
-| 7    | Lecture 6, Assignment 6 (Shader Pipeline)](https://github.com/dilevin/computer-graphics-shader-pipeline) due 01/11
-| 8    | Lecture 7, Assignment 7 (Kinematics)](https://github.com/dilevin/computer-graphics-kinematics) due 15/11
+| 6    | Lecture 5, Assignment 5 Meshes due  25/10 
+| 7    | Lecture 6, Assignment 6 Shader Pipeline due 01/11
+| 8    | Lecture 7, Assignment 7 Kinematics due 15/11
 | 9   | **No Lecture, Reading Week !**
-| 10    | Lecture 8, Assignment 8 (Mass-Spring Systems)](https://github.com/dilevin/computer-graphics-mass-spring-systems) due   22/11
+| 10    | Lecture 8, Assignment 8 Mass-Spring Systems due   22/11
 | 11   | Lecture 9, Assignment on Generative AI due 29/11
 | 12   | Lecture 10 New Developments in Computer Graphics
 
