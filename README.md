@@ -31,7 +31,7 @@ Wednesday 12:00-13:00 in UC140
 
 ## Links
 
-- [MarkUs](https://markus317.teach.cs.toronto.edu/2023-09)
+- [MarkUs](https://markus.teach.cs.toronto.edu/2023-09)
 
 **Use Assignment GitHub issue pages for questions/discussion**
 
