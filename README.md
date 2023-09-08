@@ -1,4 +1,4 @@
-# Computer Graphics CSC418/CSC2504 _Winter 2020_
+# Computer Graphics CSC418/CSC2504 _Fall 2023_
 
 ![_image courtesy Tim Jeruzalski_](images/bunny-rigid-body.gif)
 
@@ -12,36 +12,20 @@
 
 ## Instructors
 Prof. [David I.W. Levin](http://www.cs.toronto.edu/~diwlevin/)  
-diwlevin@cs.toronto.edu  
+diwlevin@cs.toronto.edu   
 +1 416-978-2052  
 
-**Office Hours:** Tuesday/Wednesday 5-6pm in BA5268
+**Office Hours:** Friday 1-2pm in BA5268
 
 ## Lectures
-**LEC0101** Wednesdays 15:00-17:00 in GB221 
-
-**LEC2001** Wednesdays 15:00-17:00 in GB221
-
-**LEC0201** Tuesdays 15:00-17:00 in GB244
-
-**LEC2201** Tuesdays 15:00-17:00 in GB244
-
+Mondays 11:00-13:00 in FE230 
 
 ## Tutorials
-
-**NO TUTORIAL ON JANUARY 6**
-
-**LEC0101** Monday 12:00-13:00 in GB221
-
-**LEC2001** Monday 12:00-13:00 in GB221
-
-**LEC0201** Monday 12:00-13:00 in GB244
-
-**LEC2201** Monday 12:00-13:00 in GB244
+Wednesday 12:00-13:00 in UC140
 
 ## Links
 
-- [MarkUs](https://markus.teach.cs.toronto.edu/csc418-2020-01/)
+- [MarkUs](https://markus317.teach.cs.toronto.edu/2023-09)
 
 **Use Assignment GitHub issue pages for questions/discussion**
 
@@ -62,7 +46,6 @@ diwlevin@cs.toronto.edu
 [Shading Cloth](https://dl.acm.org/doi/abs/10.1145/3084363.3085024)
 
 
-
 ## Course Overview
 
 This course introduces the basic concepts and algorithms of computer graphics.
@@ -74,8 +57,7 @@ parametric representations, curves and surfaces, texture mapping, graphics
 hardware, ray tracing, graphics toolkits, animation systems.
 
 **Prerequisites:** C/C++ Programming, Linear Algebra, Calculus, Numerical
-Methods ([course
-codes](http://calendar.artsci.utoronto.ca/crs_csc.htm#CSC418H1)).
+Methods.
 
 The student is expected to read background material on the hardware and local
 software, and should be comfortable with elementary linear algebra, geometry,
@@ -102,22 +84,19 @@ Press](https://www.crcpress.com/Fundamentals-of-Computer-Graphics-Fourth-Edition
 
 | Week | Topic / Event |
 | ---- | :------------ |
-| 1    | [Introduction](lectures/lecture1.pdf), [Assignment 1 (Raster Images)](https://github.com/dilevin/computer-graphics-raster-images) due 17/01
-| 2    | [Lecture 2](lectures/lecture2.pdf), [Assignment 2 (Ray Casting)](https://github.com/dilevin/computer-graphics-ray-casting) due 24/01
-| 3    | [Lecture 3](lectures/lecture3.pdf), [Assignment 3 (Ray Tracing)](https://github.com/dilevin/computer-graphics-ray-tracing) due 31/01
-| 4    | [Lecture 4](lectures/lecture4.pdf), [Assignment 4 (Boundary Volume Hierarchy)](https://github.com/dilevin/computer-graphics-bounding-volume-hierarchy) due 7/02
-| 5    | [Lecture 5](lectures/lecture5.pdf), [Assignment 5 (Meshes)](https://github.com/dilevin/computer-graphics-meshes) due  28/02 
-| 6    | [Lecture 6](lectures/lecture6.pdf), [Assignment 6 (Shader Pipeline)](https://github.com/dilevin/computer-graphics-shader-pipeline) due 28/02
-| **Reading Week**  **February 17-21**   | Study for 1st exam   
-| **Monday, February 24** | In-tutorial Exam (15% of grade)  
-| 7    | *Work on Assignments 5 and 6*
-| 8    | [Lecture 7](lectures/lecture7.pdf), [Assignment 7 (Kinematics)](https://github.com/dilevin/computer-graphics-kinematics) due ~~13/03~~ 17/04
-| **Sunday, March 15** | Drop date (consider if grade so far is <50%)
-| 9    | [Lecture 8](./lectures/lecture8.pdf), [Assignment 8 (Mass-Spring Systems)](https://github.com/dilevin/computer-graphics-mass-spring-systems) due ~~20/03~~  17/04
-| 10   | ~~Research Trends in Computer Graphics~~
-| 11   | _Study for exam next week and work on Final Project_. 
-| ~~**Monday, March 30**~~ | ~~In-tutorial Exam (15% of grade)~~
-| 12   | ~~Lecture 9~~, [Final Image/Animation/Game Competition](https://github.com/dilevin/computer-graphics-final-image-competition) due ~~06/04~~ 17/04
+| 1    | Introduction, Assignment 1 (Raster Images) due 20/09
+| 2    | Lecture 2, Assignment 2  Ray Casting due 27/09
+| 3    | Lecture 3, Assignment 3 Ray Tracing)](https://github.com/dilevin/computer-graphics-ray-tracing) due 04/10
+| 4    | Lecture 4, Assignment 4 Boundary Volume Hierarchy)](https://github.com/dilevin/computer-graphics-bounding-volume-hierarchy) due 13/10
+|      | 24 hour Take home midterm (Exact date to be determined)
+| 5    | **No Lecture, Thanksgiving**
+| 6    | Lecture 5, Assignment 5 (Meshes)](https://github.com/dilevin/computer-graphics-meshes) due  25/10 
+| 7    | Lecture 6, Assignment 6 (Shader Pipeline)](https://github.com/dilevin/computer-graphics-shader-pipeline) due 01/11
+| 8    | Lecture 7, Assignment 7 (Kinematics)](https://github.com/dilevin/computer-graphics-kinematics) due 15/11
+| 9   | **No Lecture, Reading Week !**
+| 10    | Lecture 8, Assignment 8 (Mass-Spring Systems)](https://github.com/dilevin/computer-graphics-mass-spring-systems) due   22/11
+| 11   | Lecture 9, Assignment on Generative AI due 29/11
+| 12   | Lecture 10 New Developments in Computer Graphics
 
 [Academic Honesty (required reading)](#academichonesty)
 
@@ -127,12 +106,11 @@ Press](https://www.crcpress.com/Fundamentals-of-Computer-Graphics-Fourth-Edition
 
 | % | Item |
 | ----: | :-------------- |
-| ~~64%~~ 71.5%| Assignments
-| ~~15%~~ 22.5%| Monday, February 24, in-tutorial exam
-| ~~15%~~ | ~~Monday, March 30, in-tutorial exam~~
-|  6% | Final project competition
+|63| Assignments
+|17| Midterm
+|20| In Tutorial Final Exam
 
-There will be eight programming assignments in total (8% each).
+There will be nine programming assignments in total (7% each).
 
 ## Lateness Policy
 
