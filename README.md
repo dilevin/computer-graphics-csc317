@@ -16,9 +16,9 @@ diwlevin@cs.toronto.edu
 +1 416-978-2052  
 
 ## TAs
-Jonathan Panuelos
-Wenzhi Guo
-Zhecheng Wang
+Jonathan Panuelos  
+Wenzhi Guo  
+Zhecheng Wang  
 csc317tas@cs.toronto.edu
 
 **Office Hours:** Friday 1-2pm in BA5268
