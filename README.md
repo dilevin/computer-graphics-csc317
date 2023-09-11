@@ -27,7 +27,7 @@ csc317tas@cs.toronto.edu
 Mondays 11:00-13:00 in FE230 
 
 ## Tutorials
-Wednesday 12:00-13:00 in UC140
+Wednesday 11:00-12:00 in UC140
 
 ## Links
 
