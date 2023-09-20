@@ -112,11 +112,11 @@ Press](https://www.crcpress.com/Fundamentals-of-Computer-Graphics-Fourth-Edition
 
 | % | Item |
 | ----: | :-------------- |
-|63| Assignments
-|17| Midterm
-|20| In Tutorial Final Exam
+|72| Assignments
+|14| Midterm
+|14| In Tutorial Final Exam
 
-There will be nine programming assignments in total (7% each).
+There will be nine programming assignments in total (8% each).
 
 ## Lateness Policy
 
