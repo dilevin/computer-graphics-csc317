@@ -93,7 +93,7 @@ Press](https://www.crcpress.com/Fundamentals-of-Computer-Graphics-Fourth-Edition
 | 1    | [Introduction](lectures/lecture1.pdf), [tutorial](tutorials/tut1.pdf), [Assignment 1 (Raster Images)](https://github.com/dilevin/computer-graphics-raster-images/tree/master) **waitlisted ? zip assignment and email to TAs** due 20/09
 | 2    | [Lecture 2](lectures/lecture2.pdf), [Assignment 2  Ray Casting](https://github.com/dilevin/computer-graphics-ray-casting) due 27/09
 | 3    | [Lecture 3](lectures/lecture3.pdf), [Assignment 3 Ray Tracing](https://github.com/dilevin/computer-graphics-ray-tracing) due 04/10
-| 4    | Lecture 4, Assignment 4 Boundary Volume Hierarchy due 13/10
+| 4    | [Lecture 4](lectures/lecture4.pdf), [Assignment 4 Bounding Volume Hierarchy](https://github.com/dilevin/computer-graphics-bounding-volume-hierarchy) due 13/10
 |      | 24 hour Take home midterm (Exact date to be determined)
 | 5    | **No Lecture, Thanksgiving**
 | 6    | Lecture 5, Assignment 5 Meshes due  25/10 
