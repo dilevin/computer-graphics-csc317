@@ -96,7 +96,7 @@ Press](https://www.crcpress.com/Fundamentals-of-Computer-Graphics-Fourth-Edition
 | 4    | [Lecture 4](lectures/lecture4.pdf), [Assignment 4 Bounding Volume Hierarchy](https://github.com/dilevin/computer-graphics-bounding-volume-hierarchy) due 13/10
 |      | 24 hour Take home midterm (Exact date to be determined)
 | 5    | **No Lecture, Thanksgiving**
-| 6    | Lecture 5, Assignment 5 Meshes due  25/10 
+| 6    | [Lecture 5](lectures/lecture5.pdf), [Assignment 5 Meshes](https://github.com/dilevin/computer-graphics-meshes) due  25/10 
 | 7    | Lecture 6, Assignment 6 Shader Pipeline due 01/11
 | 8    | Lecture 7, Assignment 7 Kinematics due 15/11
 | 9   | **No Lecture, Reading Week !**
