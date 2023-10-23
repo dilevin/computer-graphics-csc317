@@ -97,7 +97,7 @@ Press](https://www.crcpress.com/Fundamentals-of-Computer-Graphics-Fourth-Edition
 |      | 24 hour Take home midterm (Exact date to be determined)
 | 5    | **No Lecture, Thanksgiving**
 | 6    | [Lecture 5](lectures/lecture5.pdf), [Assignment 5 Meshes](https://github.com/dilevin/computer-graphics-meshes) due  25/10 
-| 7    | [Lecture 6], [Assignment 6 Shader Pipeline](https://github.com/dilevin/computer-graphics-shader-pipeline) due 01/11
+| 7    | [Lecture 6](lectures/lecture5.pdf), [Assignment 6 Shader Pipeline](https://github.com/dilevin/computer-graphics-shader-pipeline) due 01/11
 | 8    | Lecture 7, Assignment 7 Kinematics due 15/11
 | 9   | **No Lecture, Reading Week !**
 | 10    | Lecture 8, Assignment 8 Mass-Spring Systems due   22/11
