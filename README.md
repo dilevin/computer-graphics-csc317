@@ -100,7 +100,7 @@ Press](https://www.crcpress.com/Fundamentals-of-Computer-Graphics-Fourth-Edition
 | 7    | [Lecture 6](lectures/lecture6.pdf), [Assignment 6 Shader Pipeline](https://github.com/dilevin/computer-graphics-shader-pipeline) due 01/11
 | 8    | [Lecture 7](lectures/lecture7.pdf), [Assignment 7 Kinematics](https://github.com/dilevin/computer-graphics-kinematics) due 15/11
 | 9   | **No Lecture, Reading Week !**
-| 10    | Lecture 8, Assignment 8 Mass-Spring Systems due   22/11
+| 10    | Lecture 8, [Assignment 8 Mass-Spring Systems](https://github.com/dilevin/computer-graphics-mass-spring-systems) due   22/11
 | 11   | Lecture 9, Assignment on Generative AI due 29/11
 | 12   | Lecture 10 New Developments in Computer Graphics
 
