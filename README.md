@@ -101,7 +101,7 @@ Press](https://www.crcpress.com/Fundamentals-of-Computer-Graphics-Fourth-Edition
 | 8    | [Lecture 7](lectures/lecture7.pdf), [Assignment 7 Kinematics](https://github.com/dilevin/computer-graphics-kinematics) due 15/11
 | 9   | **No Lecture, Reading Week !**
 | 10    | [Lecture 8](lectures/lecture8.pdf), [Assignment 8 Mass-Spring Systems](https://github.com/dilevin/computer-graphics-mass-spring-systems) due   22/11
-| 11   | Lecture 9, Assignment on Generative AI due 29/11
+| 11   | [Lecture 9](lectures/lecture9.pdf), [Assignment on Generative AI](https://github.com/alecjacobson/computer-graphics-text-to-image) due 29/11
 | 12   | Lecture 10 New Developments in Computer Graphics
 
 [Academic Honesty (required reading)](#academichonesty)
