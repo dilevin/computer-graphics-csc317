@@ -90,21 +90,27 @@ Press](https://www.crcpress.com/Fundamentals-of-Computer-Graphics-Fourth-Edition
 
 ## Lecture Schedule
 
+**Note: All assignments accept 9 are available immediately. BUT we are only covering one assignment at a time. While  you are welcome to look ahead, future assignments
+have not been debugged and we will not answer questions about them at tutorial or office hours until we cover them in lecture**
+
 | Week | Topic / Event |
 | ---- | :------------ |
-| 1    | [Introduction](lectures/lecture1.pdf), [tutorial](tutorials/tut1.pdf), [Assignment 1 (Raster Images)](https://github.com/dilevin/computer-graphics-raster-images/tree/master) **waitlisted ? zip assignment and email to TAs** due 20/09
-| 2    | [Lecture 2](lectures/lecture2.pdf), [Assignment 2  Ray Casting](https://github.com/dilevin/computer-graphics-ray-casting) due 27/09
-| 3    | [Lecture 3](lectures/lecture3.pdf), [Assignment 3 Ray Tracing](https://github.com/dilevin/computer-graphics-ray-tracing) due 04/10
-| 4    | [Lecture 4](lectures/lecture4.pdf), [Assignment 4 Bounding Volume Hierarchy](https://github.com/dilevin/computer-graphics-bounding-volume-hierarchy) due 13/10
-|      | 24 hour Take home midterm (Exact date to be determined)
-| 5    | **No Lecture, Thanksgiving**
-| 6    | [Lecture 5](lectures/lecture5.pdf), [Assignment 5 Meshes](https://github.com/dilevin/computer-graphics-meshes) due  25/10 
-| 7    | [Lecture 6](lectures/lecture6.pdf), [Assignment 6 Shader Pipeline](https://github.com/dilevin/computer-graphics-shader-pipeline) due 01/11
-| 8    | [Lecture 7](lectures/lecture7.pdf), [Assignment 7 Kinematics](https://github.com/dilevin/computer-graphics-kinematics) due 15/11
-| 9   | **No Lecture, Reading Week !**
-| 10    | [Lecture 8](lectures/lecture8.pdf), [Assignment 8 Mass-Spring Systems](https://github.com/dilevin/computer-graphics-mass-spring-systems) due   22/11
-| 11   | [Lecture 9](lectures/lecture9.pdf), [Assignment on Generative AI](https://github.com/alecjacobson/computer-graphics-text-to-image) due 29/11
-| 12   | Lecture 10 New Developments in Computer Graphics
+| 1    | [Introduction](lectures/lecture1.pdf), [tutorial](tutorials/tut1.pdf), [Assignment 1 (Raster Images)](https://github.com/dilevin/computer-graphics-raster-images/tree/master) **waitlisted ? zip assignment and email to TAs** due 17/09
+| 2    | [Lecture 2](lectures/lecture2.pdf), [Assignment 2  Ray Casting](https://github.com/dilevin/computer-graphics-ray-casting) due 24/09
+| 3    | [Lecture 3](lectures/lecture3.pdf), [Assignment 3 Ray Tracing](https://github.com/dilevin/computer-graphics-ray-tracing) due 01/10
+| 4    | [Lecture 4](lectures/lecture4.pdf), [Assignment 4 Bounding Volume Hierarchy](https://github.com/dilevin/computer-graphics-bounding-volume-hierarchy) due 8/10
+| 5    | [Lecture 5](lectures/lecture5.pdf), [Assignment 5 Meshes](https://github.com/dilevin/computer-graphics-meshes) due  22/10 
+| 6    | **No Lecture, Thanksgiving**
+|      | First In-Tutorial Test October 16th
+| 7    | [Lecture 6](lectures/lecture6.pdf), [Assignment 6 Shader Pipeline](https://github.com/dilevin/computer-graphics-shader-pipeline) due 5/11
+| 8   | **No Lecture, Reading Week !**
+| 9    | [Lecture 7](lectures/lecture7.pdf), [Assignment 7 Kinematics](https://github.com/dilevin/computer-graphics-kinematics) due 12/11
+| 10    | [Lecture 8](lectures/lecture8.pdf), [Assignment 8 Mass-Spring Systems](https://github.com/dilevin/computer-graphics-mass-spring-systems) due   19/11
+| 11   | Lecture 9, Assignment on Generative AI due 26/11
+| 12   | Second In-Class Test December 3rd
+
+## Quizze
+There will be 8 online quizzes available through Quercus. There is no due date for these quizzes just that they must be completed by the end of the term (December 3rd). Each quiz will cover an assignment, from assignment 1 to assignment 8. 
 
 [Academic Honesty (required reading)](#academichonesty)
 
