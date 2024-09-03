@@ -109,7 +109,7 @@ have not been debugged and we will not answer questions about them at tutorial o
 | 11   | Lecture 9, Assignment on Generative AI due 26/11
 | 12   | Second In-Class Test December 3rd
 
-## Quizze
+## Quizzes
 There will be 8 online quizzes available through Quercus. There is no due date for these quizzes just that they must be completed by the end of the term (December 3rd). Each quiz will cover an assignment, from assignment 1 to assignment 8. 
 
 [Academic Honesty (required reading)](#academichonesty)
