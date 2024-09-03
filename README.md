@@ -23,15 +23,17 @@ csc317tas@cs.toronto.edu
 
 **Office Hours:** Upon request via TA email 
 
-## Lectures
-Mondays 11:00-13:00 in FE230 
+## Lectures (Rooms Coming Soon)
+Mondays 11:00-13:00 LEC101/LEC2001 BA1180  
+Mondays 13:00-15:00 LEC201/LEC2101 BA1190  
 
 ## Tutorials
-Wednesday 11:00-12:00 in UC140
+Wednesday 11:00-12:00 LEC101/LEC2001 BA1180  
+Wednesday 13:00-14:00 LEC201/LEC2101 BA1190  
 
 ## Links
 
-- [MarkUs](https://markus.teach.cs.toronto.edu/2023-09)
+- MarkUs Coing Soon 
 
 **Use Assignment GitHub issue pages for questions/discussion**
 
@@ -112,17 +114,18 @@ Press](https://www.crcpress.com/Fundamentals-of-Computer-Graphics-Fourth-Edition
 
 | % | Item |
 | ----: | :-------------- |
-|72| Assignments
-|14| Midterm
-|14| In Tutorial Final Exam
+|64| Assignments (best 8 of 9)
+|12| 8 Quizzes (Online)
+|12| In Tutorial Test
+|12| In Class Test
 
-There will be nine programming assignments in total (8% each).
+There will be nine programming assignments of which we will  count the best 8 marks (8% each).
 
 ## Lateness Policy
 
-Assignments are **_due by 11:59pm_** on the due date.
+Every student is given ten (10) late days which are zutomatically applied,starting at midnight on the due date. Weekends count as late days.  
 
-0.007% off for every minute late.
+If you plan on not sunmitting an assignment (to take advantage of the best 8-of-9) please let us know so late days aren't applied. 
 
 ### Academic Honesty
 
@@ -136,7 +139,7 @@ wont have to cheat!
 
 For purposes of this class, academic dishonesty is defined as:
 
-- Any attempt to pass off work on a test that didn't come straight out of your
+- Any attempt to pass off work on a test, quiz or assignment that didn't come straight out of your
   own head.
 - Any collaboration on written or programming assignments (its ok to share ideas
   on programming assignments but the code MUST be your own) in which the
@@ -149,14 +152,10 @@ For purposes of this class, academic dishonesty is defined as:
 
 ### Email & Bulletin Board Traffic
 
-- Please do not send email directly to the TAs. They will not be replied.
-- Main forum for answering questions about class or about the assignments is the
-  class bulletin board. The TAs will be monitoring the board.
-- Appropriate use of the board: clarifications on assignment, on lecture
-  material, general concerns about the course, or other remarks that are
-  appropriate for all students to see/participate in.
+- Please use the TA Email List for all communications except for things that require a Professors dedicated attention. 
+- Use github issue pages on assignment pages for questions
 - Do NOT broadcast pieces of your code or answers to written assignments to the
-  bulletin board. Specific or general implementation questions whose answer
+  github issues. Specific or general implementation questions whose answer
   would benefit all students in the class are appropriate. However: the bulletin
   board is NO replacement for the tutorial hour. That should be the main forum
   for asking/answering questions of this sort.
