@@ -1,4 +1,4 @@
-# Computer Graphics CSC317/CSC2504 _Fall 2023_
+# Computer Graphics CSC317/CSC2504 _Fall 2024_
 
 ![_image courtesy Tim Jeruzalski_](images/bunny-rigid-body.gif)
 
@@ -13,12 +13,12 @@
 ## Instructors
 Prof. [David I.W. Levin](http://www.cs.toronto.edu/~diwlevin/)  
 diwlevin@cs.toronto.edu   
-+1 416-978-2052  
+
+Prof. [Karan Singh](https://www.dgp.toronto.edu/~karan/)
+karan@dgp.toronto.edu
 
 ## TAs
-Jonathan Panuelos  
-Wenzhi Guo  
-Zhecheng Wang  
+Coming Soon
 csc317tas@cs.toronto.edu
 
 **Office Hours:** Friday 1-2pm in BA5268
