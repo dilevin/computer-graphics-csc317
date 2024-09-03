@@ -14,7 +14,7 @@
 Prof. [David I.W. Levin](http://www.cs.toronto.edu/~diwlevin/)  
 diwlevin@cs.toronto.edu   
 
-Prof. [Karan Singh](https://www.dgp.toronto.edu/~karan/)
+Prof. [Karan Singh](https://www.dgp.toronto.edu/~karan/)  
 karan@dgp.toronto.edu
 
 ## TAs
