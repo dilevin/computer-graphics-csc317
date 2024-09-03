@@ -23,7 +23,7 @@ csc317tas@cs.toronto.edu
 
 **Office Hours:** Upon request via TA email 
 
-## Lectures (Rooms Coming Soon)
+## Lectures
 Mondays 11:00-13:00 LEC101/LEC2001 BA1180  
 Mondays 13:00-15:00 LEC201/LEC2101 BA1190  
 
