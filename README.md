@@ -21,7 +21,7 @@ karan@dgp.toronto.edu
 Coming Soon
 csc317tas@cs.toronto.edu
 
-**Office Hours:** Friday 1-2pm in BA5268
+**Office Hours:** Upon request via TA email 
 
 ## Lectures
 Mondays 11:00-13:00 in FE230 
