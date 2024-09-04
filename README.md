@@ -4,11 +4,12 @@
 
 - [Lectures](#Lectures)
 - [Tutorials](#Tutorials)
-- [Course Overview](#courseoverview)
-- [Required Textbook](#requiredtextbook)
-- [Lecture Schedule](#lectureschedule)
+- [Course Overview](#cours-eoverview)
+- [Required Textbook](#required-textbook)
+- [Lecture Schedule](#lecture-schedule)
 - [Grading](#grading)
-- [Lateness Policy](#latenesspolicy)
+- [Lateness Policy](#lateness-policy)
+- [Academic Honesty (required reading)](#academic-honesty)
 
 ## Instructors
 Prof. [David I.W. Levin](http://www.cs.toronto.edu/~diwlevin/)  
@@ -112,7 +113,7 @@ have not been debugged and we will not answer questions about them at tutorial o
 ## Quizzes
 There will be 8 online quizzes available through Quercus. There is no due date for these quizzes just that they must be completed by the end of the term (December 3rd). Each quiz will cover an assignment, from assignment 1 to assignment 8. 
 
-[Academic Honesty (required reading)](#academichonesty)
+[Academic Honesty (required reading)](#academic-honesty)
 
 ![_image courtesy Gavin Barill_](images/gavin-barill-snowglobe.jpg)
 
@@ -129,9 +130,9 @@ There will be nine programming assignments of which we will  count the best 8 ma
 
 ## Lateness Policy
 
-Every student is given ten (10) late days which are zutomatically applied,starting at midnight on the due date. Weekends count as late days.  
+Every student is given ten (10) late days which are automatically applied,starting at midnight on the due date. Weekends count as late days.  
 
-If you plan on not sunmitting an assignment (to take advantage of the best 8-of-9) please let us know so late days aren't applied. 
+If you plan on not submitting an assignment (to take advantage of the best 8-of-9 policy) please let us know so late days aren't applied. 
 
 ### Academic Honesty
 
