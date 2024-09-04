@@ -111,7 +111,7 @@ have not been debugged and we will not answer questions about them at tutorial o
 | 12   | Second In-Class Test December 3rd
 
 ## Quizzes
-There will be 8 online quizzes available through Quercus. There is no due date for these quizzes just that they must be completed by the end of the term (December 3rd). Each quiz will cover an assignment, from assignment 1 to assignment 8. 
+There will be 4 online quizzes available through Quercus. There is no due date for these quizzes just that they must be completed by the end of the term (December 3rd). Quiz content will be related to the preceeding assignments. 
 
 [Academic Honesty (required reading)](#academic-honesty)
 
@@ -122,7 +122,7 @@ There will be 8 online quizzes available through Quercus. There is no due date f
 | % | Item |
 | ----: | :-------------- |
 |64| Assignments (best 8 of 9)
-|12| 8 Quizzes (Online)
+|12| 4 Quizzes (Online)
 |12| In Tutorial Test
 |12| In Class Test
 
