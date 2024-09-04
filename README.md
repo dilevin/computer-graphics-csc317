@@ -5,7 +5,7 @@
 - [Lectures](#Lectures)
 - [Tutorials](#Tutorials)
 - [Course Overview](#course-overview)
-- [Required Textbook](#required-textbook)
+- [Recommended Textbook](#recommended-textbook)
 - [Lecture Schedule](#lecture-schedule)
 - [Grading](#grading)
 - [Lateness Policy](#lateness-policy)
@@ -75,7 +75,7 @@ programming in basic C++.
 
 **_(Strongly)_ Recommended preparation:** Multivariable Calculus
 
-## Required Textbook
+## Recommended Textbook
 
 ![The Book.](https://www.cs.cornell.edu/~srm/fcg4/K22616_cover-300.jpg)
 
