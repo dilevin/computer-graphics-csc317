@@ -5,10 +5,11 @@
 - [Lectures](#Lectures)
 - [Tutorials](#Tutorials)
 - [Course Overview](#course-overview)
-- [Required Textbook](#required-textbook)
+- [Recommended Textbook](#recommended-textbook)
 - [Lecture Schedule](#lecture-schedule)
 - [Grading](#grading)
 - [Lateness Policy](#lateness-policy)
+- [Academic Honesty (required reading)](#academic-honesty)
 
 ## Instructors
 Prof. [David I.W. Levin](http://www.cs.toronto.edu/~diwlevin/)  
@@ -74,7 +75,7 @@ programming in basic C++.
 
 **_(Strongly)_ Recommended preparation:** Multivariable Calculus
 
-## Required Textbook
+## Recommended Textbook
 
 ![The Book.](https://www.cs.cornell.edu/~srm/fcg4/K22616_cover-300.jpg)
 
@@ -131,7 +132,8 @@ There will be nine programming assignments of which we will  count the best 8 ma
 
 Every student is given ten (10) late days which are automatically applied,starting at midnight on the due date. Weekends count as late days.  
 
-If you plan on not submitting an assignment (to take advantage of the best 8-of-9) please let us know so late days aren't applied. 
+
+If you plan on not submitting an assignment (to take advantage of the best 8-of-9 policy) please let us know so late days aren't applied. 
 
 ### Academic Honesty
 
