@@ -4,7 +4,7 @@
 
 - [Lectures](#Lectures)
 - [Tutorials](#Tutorials)
-- [Course Overview](#cours-eoverview)
+- [Course Overview](#course-overview)
 - [Required Textbook](#required-textbook)
 - [Lecture Schedule](#lecture-schedule)
 - [Grading](#grading)
