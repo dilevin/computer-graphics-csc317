@@ -19,7 +19,15 @@ Prof. [Karan Singh](https://www.dgp.toronto.edu/~karan/)
 karan@dgp.toronto.edu
 
 ## TAs
-Coming Soon
+Jonathan Panuelos  
+Lily Goli  
+Mengfei Liu  
+Victor Pineda  
+Wenzhi Guo
+Yun-Chun Chen
+Zewen Shen
+Zhecheng Wang
+
 csc317tas@cs.toronto.edu
 
 **Office Hours:** Upon request via TA email 
