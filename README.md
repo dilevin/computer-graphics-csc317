@@ -46,15 +46,6 @@ Wednesday 13:00-14:00 LEC201/LEC2101 BA1190
 
 [The Matrix Cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
 
-# Additional Graphics Resources (papers/presentations)
-
-** You need to login to the UofT vpn to access these **
-
-[Simulating characters in vehicles for games](https://dl.acm.org/doi/abs/10.1145/3084363.3085024)
-
-[Shading Cloth](https://dl.acm.org/doi/abs/10.1145/3084363.3085024)
-
-
 ## Course Overview
 
 This course introduces the basic concepts and algorithms of computer graphics.
@@ -91,7 +82,7 @@ Press](https://www.crcpress.com/Fundamentals-of-Computer-Graphics-Fourth-Edition
 
 ## Lecture Schedule
 
-**Note: All assignments accept 9 are available immediately. BUT we are only covering one assignment at a time. While  you are welcome to look ahead, future assignments
+**Note: All assignments except 9 are available immediately. BUT we are only covering one assignment at a time. While  you are welcome to look ahead, future assignments
 have not been debugged and we will not answer questions about them at tutorial or office hours until we cover them in lecture**
 
 | Week | Topic / Event |
@@ -111,7 +102,7 @@ have not been debugged and we will not answer questions about them at tutorial o
 | 12   | Second In-Class Test December 3rd
 
 ## Quizzes
-There will be 4 online quizzes available through Quercus. There is no due date for these quizzes just that they must be completed by the end of the term (December 3rd). Quiz content will be related to the preceeding assignments. 
+There will be 4 online quizzes available through Quercus. Each quiz will cover the content of two assignments each, from assignment 1 to assignment 8. Each quiz will go live after the respective topics are covered in class and must be completed on Quercus by the end of the term (December 3rd).
 
 [Academic Honesty (required reading)](#academic-honesty)
 
