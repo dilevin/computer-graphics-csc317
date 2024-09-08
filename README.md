@@ -95,7 +95,7 @@ have not been debugged and we will not answer questions about them at tutorial o
 
 | Week | Topic / Event |
 | ---- | :------------ |
-| 1    | Introduction[DL](lectures/lecture1.pdf),[KS](lectures/lecture1KS.pdf), [tutorial](tutorials/tut1.pdf), [Assignment 1 (Raster Images)](https://github.com/dilevin/computer-graphics-raster-images/tree/master) **waitlisted ? zip assignment and email to TAs** due 17/09
+| 1    | Introduction[DL](lectures/lecture1.pdf),[KS](lectures/lecture1KS.pdf), [tutorial](tutorials/tut1.pdf), [Assignment 1 (Raster Images)](https://github.com/dilevin/computer-graphics-raster-images/tree/master) [Math Practice](lectures/pre-test.pdf)**waitlisted ? zip assignment and email to TAs** due 17/09
 | 2    | [Lecture 2](lectures/lecture2.pdf), [Assignment 2  Ray Casting](https://github.com/dilevin/computer-graphics-ray-casting) due 24/09
 | 3    | [Lecture 3](lectures/lecture3.pdf), [Assignment 3 Ray Tracing](https://github.com/dilevin/computer-graphics-ray-tracing) due 01/10
 | 4    | [Lecture 4](lectures/lecture4.pdf), [Assignment 4 Bounding Volume Hierarchy](https://github.com/dilevin/computer-graphics-bounding-volume-hierarchy) due 8/10
