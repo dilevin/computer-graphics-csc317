@@ -23,10 +23,10 @@ Jonathan Panuelos
 Lily Goli  
 Mengfei Liu  
 Victor Pineda  
-Wenzhi Guo
-Yun-Chun Chen
-Zewen Shen
-Zhecheng Wang
+Wenzhi Guo  
+Yun-Chun Chen  
+Zewen Shen  
+Zhecheng Wang  
 
 csc317tas@cs.toronto.edu
 
