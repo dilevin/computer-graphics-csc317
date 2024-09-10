@@ -42,7 +42,7 @@ Wednesday 13:00-14:00 LEC201/LEC2101 BA1190
 
 ## Links
 
-- MarkUs Coing Soon 
+- [MarkUs](https://markus.teach.cs.toronto.edu/markus)
 
 **Use Assignment GitHub issue pages for questions/discussion**
 
