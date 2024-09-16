@@ -93,6 +93,8 @@ Press](https://www.crcpress.com/Fundamentals-of-Computer-Graphics-Fourth-Edition
 **Note: All assignments except 9 are available immediately. BUT we are only covering one assignment at a time. While  you are welcome to look ahead, future assignments
 have not been debugged and we will not answer questions about them at tutorial or office hours until we cover them in lecture**
 
+You can find a series of short videos cut up by lectures and topics voicing over the lecture slides [here](https://drive.google.com/drive/folders/1cWDOSB-DHepfBlj_vdDsf9mU9sLP8sem?usp=sharing).
+
 | Week | Topic / Event |
 | ---- | :------------ |
 | 1    | Introduction[DL](lectures/lecture1.pdf),[KS](lectures/lecture1KS.pdf), [tutorial](tutorials/tut1.pdf), [Assignment 1 (Raster Images)](https://github.com/dilevin/computer-graphics-raster-images/tree/master) [Math Practice](lectures/pre-test.pdf)**waitlisted ? zip assignment and email to TAs** due 17/09
