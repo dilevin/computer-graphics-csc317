@@ -45,7 +45,7 @@ Wednesday 13:00-14:00 LEC201/LEC2101 BA1190
 
 ## Links
 
-- [MarkUs](https://markus.teach.cs.toronto.edu/markus)
+- [MarkUs](https://markus.teach.cs.toronto.edu/markus)  
 
 **Use Assignment GitHub issue pages for questions/discussion**
 
@@ -56,6 +56,8 @@ Wednesday 13:00-14:00 LEC201/LEC2101 BA1190
 [OpenGL Tutorials at http://www.opengl-tutorial.org](http://www.opengl-tutorial.org)
 
 [The Matrix Cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
+
+[Eigen Matrix Library](https://eigen.tuxfamily.org/dox/)
 
 ## Course Overview
 
