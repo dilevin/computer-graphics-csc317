@@ -34,6 +34,7 @@ csc317tas@cs.toronto.edu
 ### You can attend any office hours that fits your schedule  
 Mondays 10am-11am BA5258 (Karan)  
 Mondays 3pm-4pm BA5368 (Dave)  
+  
 ## Lectures
 Mondays 11:00-13:00 LEC101/LEC2001 BA1180  
 Mondays 13:00-15:00 LEC201/LEC2101 BA1190  
