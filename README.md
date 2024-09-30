@@ -104,8 +104,8 @@ You can find a series of short videos cut up by lectures and topics voicing over
 | ---- | :------------ |
 | 1    | Introduction[DL](lectures/lecture1.pdf),[KS](lectures/lecture1KS.pdf), [RGBtoHSV](lectures/rgbhsv.pdf),[tutorial](tutorials/tut1.pdf), [Assignment 1 (Raster Images)](https://github.com/dilevin/computer-graphics-raster-images/tree/master) [Math Practice](lectures/pre-test.pdf)**waitlisted ? zip assignment and email to TAs** due 17/09
 | 2    | Lecture2[DL](lectures/lecture2.pdf),[KS](lectures/lecture2KS.pdf), [Assignment 2  Ray Casting](https://github.com/dilevin/computer-graphics-ray-casting) due 24/09
-| 3    | Lecture 3[DL](lectures/lecture3.pdf),[KS](lectures/lecture3KS.pdf) [Assignment 3 Ray Tracing](https://github.com/dilevin/computer-graphics-ray-tracing) due 01/10
-| 4    | [Lecture 4](lectures/lecture4.pdf), [Assignment 4 Bounding Volume Hierarchy](https://github.com/dilevin/computer-graphics-bounding-volume-hierarchy) due 8/10
+| 3    | Lecture 3[DL](lectures/lecture3.pdf),[KS](lectures/lecture3KS.pdf), [Assignment 3 Ray Tracing](https://github.com/dilevin/computer-graphics-ray-tracing) due 01/10
+| 4    | Lecture 4[DL](lectures/lecture4.pdf),[KS](lectures/lecture4KS.pdf), [Assignment 4 Bounding Volume Hierarchy](https://github.com/dilevin/computer-graphics-bounding-volume-hierarchy) due 8/10
 | 5    | [Lecture 5](lectures/lecture5.pdf), [Assignment 5 Meshes](https://github.com/dilevin/computer-graphics-meshes) due  22/10 
 | 6    | **No Lecture, Thanksgiving**
 |      | First In-Tutorial Test October 16th
