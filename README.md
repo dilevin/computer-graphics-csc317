@@ -106,7 +106,7 @@ You can find a series of short videos cut up by lectures and topics voicing over
 | 2    | Lecture2[DL](lectures/lecture2.pdf),[KS](lectures/lecture2KS.pdf), [Assignment 2  Ray Casting](https://github.com/dilevin/computer-graphics-ray-casting) due 24/09
 | 3    | Lecture 3[DL](lectures/lecture3.pdf),[KS](lectures/lecture3KS.pdf), [Assignment 3 Ray Tracing](https://github.com/dilevin/computer-graphics-ray-tracing) due 01/10
 | 4    | Lecture 4[DL](lectures/lecture4.pdf),[KS](lectures/lecture4KS.pdf), [Assignment 4 Bounding Volume Hierarchy](https://github.com/dilevin/computer-graphics-bounding-volume-hierarchy) due 8/10
-| 5    | [Lecture 5](lectures/lecture5.pdf), [Assignment 5 Meshes](https://github.com/dilevin/computer-graphics-meshes) due  22/10 
+| 5    | Lecture 5[DL](lectures/lecture5.pdf),[KS](lectures/lecture5KS.pdf), [Assignment 5 Meshes](https://github.com/dilevin/computer-graphics-meshes) due  22/10 
 | 6    | **No Lecture, Thanksgiving**
 |      | First In-Tutorial Test October 16th
 | 7    | [Lecture 6](lectures/lecture6.pdf), [Assignment 6 Shader Pipeline](https://github.com/dilevin/computer-graphics-shader-pipeline) due 5/11
