@@ -113,7 +113,7 @@ You can find a series of short videos cut up by lectures and topics voicing over
 | 8   | **No Lecture, Reading Week !**
 | 9    | [Lecture 7](lectures/lecture7.pdf), [Assignment 7 Kinematics](https://github.com/dilevin/computer-graphics-kinematics) due 12/11
 | 10    | [Lecture 8](lectures/lecture8.pdf), [Assignment 8 Mass-Spring Systems](https://github.com/dilevin/computer-graphics-mass-spring-systems) due   19/11
-| 11   | Lecture 9, Assignment on Generative AI due 26/11
+| 11   | Lecture 9
 | 12   | Second In-Class Test December 3rd
 
 ## Quizzes
@@ -127,7 +127,7 @@ There will be 4 online quizzes available through Quercus. Each quiz will cover t
 
 | % | Item |
 | ----: | :-------------- |
-|64| Assignments (best 8 of 9)
+|64| Assignments (best 7 of 8)
 |12| 4 Quizzes (Online)
 |12| In Tutorial Test
 |12| In Class Test
