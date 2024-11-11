@@ -112,7 +112,7 @@ You can find a series of short videos cut up by lectures and topics voicing over
 | 7    | Lecture 6,[DL](lectures/lecture6.pdf),[KS](lectures/lecture6KS.pdf), [Assignment 6 Shader Pipeline](https://github.com/dilevin/computer-graphics-shader-pipeline) due 5/11
 | 8   | **No Lecture, Reading Week !**
 | 9    | Lecture 7, [DL](lectures/lecture7.pdf), [KS](lectures/lecture7KS.pdf), [Assignment 7 Kinematics](https://github.com/dilevin/computer-graphics-kinematics) due 12/11
-| 10    | [Lecture 8](lectures/lecture8.pdf), [Assignment 8 Mass-Spring Systems](https://github.com/dilevin/computer-graphics-mass-spring-systems) due   19/11
+| 10    | Lecture 8, [DL](lectures/lecture8.pdf), [KS](lectures/lecture8KS.pdf), [Assignment 8 Mass-Spring Systems](https://github.com/dilevin/computer-graphics-mass-spring-systems) due   19/11
 | 11   | Lecture 9
 | 12   | Second In-Class Test December 3rd
 
